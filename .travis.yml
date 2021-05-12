@@ -20,3 +20,6 @@ after_success:
   - docker push lachhekumar/multi-nginx
   - docker push lachhekumar/multi-server
   - docker push lachhekumar/multi-worker
+
+
+  
