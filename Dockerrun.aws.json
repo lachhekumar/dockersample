@@ -3,6 +3,7 @@
     "ContainerDefinitions" : [
         {
             "name":"client",
+            "image": "lachhekumar/multi-app"
         }
     ]
 }
