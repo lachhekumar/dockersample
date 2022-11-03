@@ -1,0 +1,36 @@
+1.Waterfall Methods
+Software requirements
+Design
+Development
+Testing
+Deploy
+
+disadvantage:
+user have to wait for long time to see actual product
+Lack of transparency to user 
+
+2.Spiral Model:-
+Cutomer can pay when final model is ready
+can take no. of cycles
+
+ Drawback:
+if any new changes required after 2 to 3 cylces  
+we have to repeat whole process again
+
+7 Satge process followed in NTT Data:
+	1.Overall Planning phase
+ 	2.Discover
+	3.High level requirements
+	4.detailed requirements
+	5.review and sign off
+	6.Transition
+	7. Validate
+
+Quality Assurance and Testing Services:-
+ 1. Appln maintainance
+ 2. Modernrization - understand techno needed for change
+ 3.Process Optimization - understand ovrlaps and gaps betw
+                         current and to be states
+ 4.Digital - Focus on customer outcome
+             End to end validation
+
